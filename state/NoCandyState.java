@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.state;
+package state;
 
 // The machine is empty: every action gets the same answer.
 public class NoCandyState implements CandyMachineState {

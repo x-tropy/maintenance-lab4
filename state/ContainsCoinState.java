@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.state;
+package state;
 
 // A coin has been inserted; the machine is waiting for the button.
 // TODO (3.3): complete the three methods using the table on the lab sheet.

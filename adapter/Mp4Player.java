@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.adapter;
+package adapter;
 
 public class Mp4Player implements AdvancedMediaPlayer {
     @Override

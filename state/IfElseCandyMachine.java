@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.state;
+package state;
 
 // The vending machine written with an if/else chain in every method.
 // It works, but every method must know about every state.

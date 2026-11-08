@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.adapter;
+package adapter;
 
 public class VlcPlayer implements AdvancedMediaPlayer {
     @Override

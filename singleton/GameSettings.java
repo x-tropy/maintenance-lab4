@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.singleton;
+package singleton;
 
 // The settings chosen on the game's OPTION screen.
 // Problem: anyone can call new GameSettings(), so each screen can end up with its own copy.

@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.state;
+package state;
 
 // Every state must say what happens for each action the customer can do.
 public interface CandyMachineState {

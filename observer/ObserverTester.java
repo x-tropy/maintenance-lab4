@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.observer;
+package observer;
 
 public class ObserverTester {
     public static void main(String[] args) {

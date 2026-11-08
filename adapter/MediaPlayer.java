@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.adapter;
+package adapter;
 
 // The interface our program already uses.
 public interface MediaPlayer {

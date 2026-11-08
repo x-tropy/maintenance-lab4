@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.observer;
+package observer;
 
 import java.util.ArrayList;
 import java.util.List;

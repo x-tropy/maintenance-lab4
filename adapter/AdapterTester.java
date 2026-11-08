@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.adapter;
+package adapter;
 
 public class AdapterTester {
     public static void main(String[] args) {

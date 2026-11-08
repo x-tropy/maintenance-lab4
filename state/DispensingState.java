@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.state;
+package state;
 
 // The machine is giving out a candy.
 public class DispensingState implements CandyMachineState {

@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.observer;
+package observer;
 
 // Every observer keeps a reference to the subject it watches,
 // and must say what to do when it is told that the subject changed.

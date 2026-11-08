@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.adapter;
+package adapter;
 
 // Our audio player can only play mp3 files.
 public class AudioPlayer implements MediaPlayer {

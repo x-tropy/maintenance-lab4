@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.observer;
+package observer;
 
 public class BinaryObserver extends Observer {
     public BinaryObserver(Subject subject) {

@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.state;
+package state;
 
 public class StateTester {
     public static void main(String[] args) {

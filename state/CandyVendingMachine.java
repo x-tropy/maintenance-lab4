@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.state;
+package state;
 
 // The Context: it holds one object for each state, and the current state.
 // Each action is simply passed on to the current state object.

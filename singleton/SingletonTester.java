@@ -1,4 +1,4 @@
-package com.ae2dms.lab4.singleton;
+package singleton;
 
 public class SingletonTester {
     public static void main(String[] args) {
